@@ -1,2 +1,2 @@
-print("lohs")
+print("lohs_fr")
 
